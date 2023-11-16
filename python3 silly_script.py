@@ -1,0 +1,24 @@
+ import webbrowser
+import time
+
+def rickroll():
+    print("Running advanced ethical hacking analysis...")
+    time.sleep(3)  # Simulate some processing time
+
+    print("Analysis complete. Displaying results...")
+    time.sleep(2)
+
+    # Redirect to Rick Astley's song as a joke
+    webbrowser.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+
+    print("Gotcha! 😉")
+
+# First rickroll
+rickroll()
+
+# Wait for 5 hours
+print("Waiting for additional analysis...")
+time.sleep(18000)  # 5 hours in seconds
+
+# Rickroll again
+rickroll()
