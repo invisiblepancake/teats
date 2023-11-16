@@ -1,0 +1,26 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 500
+STRING You have been chosen for an exclusive preview of a top-secret project...
+ENTER
+STRING Preparing to launch in 3...
+DELAY 1000
+STRING 2...
+DELAY 1000
+STRING 1...
+DELAY 1000
+ALT F4
+DELAY 500
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 500
+STRING echo Enjoy the show! ;)
+ENTER
+DELAY 500
+STRING start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
